@@ -3,7 +3,7 @@ name: ANN benchmarks
 on:
   push:
     branches:
-      - main
+      - annoy_job
   pull_request:
   workflow_dispatch:
 
